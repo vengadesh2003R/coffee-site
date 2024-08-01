@@ -9,7 +9,7 @@ body{
     width:100%;
 }
 .section-one{
-    background-image: url(coffeimage.jpg);
+    background-image: linear-gradient(rgba(53, 53, 53, 0.336), rgba(59, 57, 57, 0.034)), url(coffeimage.jpg);
     background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
